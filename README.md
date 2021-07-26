@@ -10,6 +10,7 @@ Install packages:
 	go get github.com/jinzhu/gorm
 
 The folder Structure is as follows:
+
 	Config
 		Database.go
 	Controller
